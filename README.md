@@ -58,4 +58,4 @@ Good luck, Pilot. The galaxy is counting on you.
 
 ---
 
-_Built with ❤️ by Ritik Raj using HTML & React._
+_Built with ❤️ by Ritik Raj._
