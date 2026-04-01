@@ -1,4 +1,4 @@
-# Space Elumia 🚀 https://ritikiitg.github.io/gamejam/
+# Space Elumia 🚀 https://ritikiitg.github.io/GameJam2026/
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
